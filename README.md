@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ashritha0601
-- 👀 I’m interested in ...
-- 🌱 I’m currently pursuing masters in computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋 I'm Ashritha Battula
+A curious mind with a passion for data engineering, AI/ML, and making tech more human 🌍
 
-<!---
-Ashritha0601/Ashritha0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Currently wrapping up my Master’s in Computer Science (GPA: 3.94) from University of North Texas
+🔧 Diving deep into Apache Kafka, Spark, and Microsoft Azure to build reliable, real-time data pipelines
+🧠 I love turning raw data into meaningful insights and building systems that actually help people
+🌱 Always learning—currently exploring cloud-native solutions and scalable ML workflows
+💬 Happy to chat about Python, SQL, FastAPI, LLMs, Data Pipelines, and anything cloud-related
+📬 Reach me: work.ashrithabattula@gmail.com
+📄 Check out my resume: Ashritha_Battula_Resume.pdf
