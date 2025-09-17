@@ -1,0 +1,39 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Data Engineer",
+    "company": "TechCorp Inc.",
+    "location": "Dallas, TX",
+    "job_type": "full_time",
+    "level": "senior",
+    "description": "We are seeking a Senior Data Engineer with expertise in Apache Kafka, Spark, and cloud technologies.",
+    "requirements": [
+      "5+ years experience",
+      "Python",
+      "Kafka",
+      "Spark",
+      "Cloud platforms"
+    ],
+    "salary_range": "$120,000 - $160,000",
+    "application_url": "https://example.com/job/1",
+    "match_score": 92.5
+  },
+  {
+    "id": "job_002",
+    "title": "Machine Learning Engineer",
+    "company": "AI Solutions Ltd.",
+    "location": "Austin, TX",
+    "job_type": "full_time",
+    "level": "mid",
+    "description": "Join our ML team to build cutting-edge AI applications.",
+    "requirements": [
+      "3+ years ML experience",
+      "Python",
+      "TensorFlow",
+      "MLOps"
+    ],
+    "salary_range": "$90,000 - $130,000",
+    "application_url": "https://example.com/job/2",
+    "match_score": 88.0
+  }
+]

@@ -10,6 +10,30 @@
 
 ---
 
+## 🤖 AI Job Agent - My Latest Project
+
+I've built an **intelligent AI-powered job agent** that helps with:
+- 🔍 **Smart Job Search**: Find opportunities that match your skills
+- 📄 **Resume Optimization**: AI-powered resume tailoring for specific jobs
+- 📝 **Cover Letter Generation**: Create personalized cover letters instantly
+- 🔔 **Job Alerts**: Automated monitoring with email notifications
+- 📊 **Skills Analysis**: Get recommendations for career growth
+
+**[➡️ Explore the AI Job Agent](./ai_job_agent/)**
+
+### Quick Demo
+```bash
+# Clone and test the system
+git clone https://github.com/Ashritha0601/Ashritha0601.git
+cd Ashritha0601/ai_job_agent
+python test_basic.py
+
+# Run the demo
+python -m cli demo
+```
+
+---
+
 <h3>🔗 Let's Connect:</h3>
 <p>
   <a href="https://www.linkedin.com/in/ashrithabattula/" target="_blank">

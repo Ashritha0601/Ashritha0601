@@ -1,0 +1,21 @@
+{
+  "id": "alert_001",
+  "user_id": "demo_user",
+  "keywords": [
+    "data engineer",
+    "python",
+    "kafka"
+  ],
+  "locations": [
+    "Dallas",
+    "Austin",
+    "Remote"
+  ],
+  "job_types": [
+    "full_time",
+    "remote"
+  ],
+  "salary_min": 80000,
+  "is_active": true,
+  "created_at": "2025-09-17T20:26:12.497957"
+}
