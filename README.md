@@ -13,7 +13,7 @@
 
 <h3>🔗 Let's Connect:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/ashrithabattula/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashrithahere/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ashrithabattula-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
